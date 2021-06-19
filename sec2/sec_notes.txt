@@ -1,0 +1,108 @@
+Data Science 
+
+ The field of Data Science.
+
+  Business Analytics
+  Data Analytic
+  Business Intelligence
+  Machine Learning
+
+
+  Difference between Analysis and Analytics
+   People confuse Analysis with Analytics due to lack of transparent
+   understanding of both. 
+   
+    Analysis 
+     - Analysis is to separate big data into small groups, to study them
+       individually, and examine how they relate to other parts.
+     - Analysis applies to things that happened in the past, like studying
+       an decrease in sales last summer.
+     
+
+     Analytics
+      - Analytics explore potential future events.
+      - Analytics studies are based on past analysis.
+      - Analytics branches into two areas:
+          1. Qualitative
+            Using intuition and experience in conjunction with the analysis, to
+            plan your next Business move. An example for qualitative is to decide
+            which product is trending and put it on the market for customers
+
+          2. Quantitative 
+            Formulas and algorithms gathered from our analysis. An example of
+            quantitative analytics is to find out based or studies using formulas
+            and algorithms WHEN (like which month) would be best to put that 
+            product on the market.
+          
+      We can also combine qualitative analysis to explain how or why past events
+      ended the way they did (like an increase in expenses the last quarter of
+      last year). And quantitative analysis working on past data to explain why 
+      sales decreased last summer.
+
+     
+     - Business Case Studies, Preliminary Data Report, Reporting with Visuals, 
+     Creating Dashboards refer to activities that aim to explain past behavior.
+
+     - Business Analytics, Qualitative Analytics, and Sales Forecasting refer to 
+     activities used for predicting future behavior.
+
+     - Data Analytics term refers to both data analysis and analytic.
+
+     Data Science (DS)
+
+     Data Science VS Data analytics
+
+      - Data Science is a discipline reliant on data availability, while business
+        analytics does not completely rely on data.
+      - Data Science mostly the part that uses complex mathematical, statical and
+        programming tools.
+
+      - Data Science can be used to improve the accuracy of predictions based on 
+        data extracted from various activities typical for work progress efficiency.
+        And that certainly isn't business analytics.
+      
+     
+     Business Intelligence (BI)
+      Business Intelligence (BI) is the process of analyzing and reporting 
+      historical business data, after reports and dashboards had been prepared.
+      BI can be used to form strategic and business decisions by end-users, such
+      as the GM.
+      - BI aims to explain past events using business data.
+      - BI refers to activities that aim to explain past behavior.
+      - BI is a DS tool; because it is a preliminary step of predictive analytics.
+      - BI analyses past data and extract useful insights.
+      - BI creates appropriate models.
+      
+
+     Preliminary data
+     - Preliminary data report is the first step of any data analysis.
+     - Preliminary data report is considered as data science.
+     
+
+     Reporting with Visuals and Creating Dashboards
+      - Reporting with Visuals and Creating Dashboards goe under BI.
+      - Reporting with Visuals and Creating Dashboards are data science.
+
+
+     Machine Learning (ML)
+      - ML is the ability to predict outcomes without being explicitly programmed.
+      - ML is about creating and implementing algorithms that let machines receive
+        data and use this data to:
+          - Make predictions
+          - Analyse patterns
+          - Give recommendations on their own
+      - ML is under Data analytics; because it cannot be implemented without data.
+      - Client retention. ML helps develop models that predict what a Client's 
+        next purchase would be.
+      - Fraud Prevention. ML can help prevent huge amount of fraud activities.
+      - Speech Recognition
+      - Image Recognition
+
+
+     Artificial Intelligence (AI)
+      - AI is simulating human knowledge and decision making with computers
+      - How tools from ML can help us improve the accuracy of our estimations.
+      - Symbolic Reasoning. Symbolic Reasoning is based on high-level human readable
+        representation of problems and logic.
+
+     
