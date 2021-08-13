@@ -26,7 +26,7 @@ Data Science
           1. Qualitative
             Using intuition and experience in conjunction with the analysis, to
             plan your next Business move. An example for qualitative is to decide
-            which product is trending and put it on the market for customers
+            which product is trending and put it on the market for customers.
 
           2. Quantitative 
             Formulas and algorithms gathered from our analysis. An example of
@@ -36,7 +36,7 @@ Data Science
           
       We can also combine qualitative analysis to explain how or why past events
       ended the way they did (like an increase in expenses the last quarter of
-      last year). And quantitative analysis working on past data to explain why 
+      last year), And quantitative analysis working on past data to explain why 
       sales decreased last summer.
 
      
